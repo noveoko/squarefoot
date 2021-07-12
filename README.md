@@ -1,0 +1,2 @@
+# squarefoot
+Calculate anything!
